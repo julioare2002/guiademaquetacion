@@ -1,0 +1,598 @@
+/*Pagina 1*/
+.primerabarra{
+    align-items: center;
+    display: flex;
+    background-color: rgb(89,89,91);
+    position: relative;
+    width: 101%;
+    height: 100px;
+  }
+  .primerespacio{
+    background-color: #f56425;
+    position: relative;
+    width: 60%;
+    height: 60px;
+    margin: 20px;
+  }
+  .segundoespacio{
+    background-color: white;
+    position: relative;
+    width: 90%;
+    height: 40px;
+    margin: 20px;
+  }
+  .tercerespacio{
+    background-color: white;
+    position: relative;
+    width: 90%;
+    height: 40px;
+    margin: 20px;
+  }
+  .cuartoespacio{
+    background-color: #e5a42e;
+    position: relative;
+    width: 90%;
+    height: 40px;
+    margin: 20px;
+  }
+  .fondogris{
+    background-color: #414143;
+    height: 100vh;
+    width: 100%;
+  }
+  .primercuadrado{
+    margin: 30px;
+    background-color: #f46523;
+    width:35%;
+    height:200px;
+  }
+  .pol{
+    margin-left: 30px;
+    color: white;
+  }
+  .segundocuadrado{
+    margin: 30px;
+    background-color: #e6a233;
+    width:25%;
+    height:200px;
+  }
+  .grisfondo{
+    background-color: #6d6e72;
+    width: 95%;
+    height: 100vh;
+  }
+  .pol1{
+    color: white;
+  }
+  /*pagina 2*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .padre{
+    background-color: rgb(89,89,91);
+    position: relative;
+    width: 101.5%;
+    height: 300px;
+  }
+  .cuadroamarillo{
+    background-color: rgb(230,163,50);
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+  }
+  .texto{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+   }
+   .cajagris{
+    background-color: rgb(65,64,69);
+    position: relative;
+    width: 100vh;
+    height: 400px;
+    margin-top: 50px;
+  }
+  .cajagris2{
+    background-color: rgb(65,65,67);
+    right: 5vh;
+    width: 30%;
+    height: 1000px;
+    position: absolute;
+  }
+  .cuadrorojo1{
+    background-color: rgb(196,31,62);
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin: 50px;
+  } 
+  .cuadrorojo2{
+    background-color: rgb(236,28,35);
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin: 50px;
+  }
+  .cuadrorojo3{
+    background-color: rgb(204,31,40);
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin: 50px;
+  }  
+  .subtitulo1{
+    left: 150px;
+    position: absolute;
+  }
+  .texto1{
+    top: 40px;
+    left: 150px;
+    position: absolute;
+  }
+  .cuadrorojo4{
+    background-color: rgb(241,90,80);
+    position: relative;
+    width: 130px;
+    height: 130px;
+    margin: 50px;
+  } 
+  .textone{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+  
+  }
+  .textosubtitulo{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  .rectangulonaranja{
+    background-color: rgb(89,89,81);
+    display: flex;
+    width: 100%;
+    height: 10em;
+  }
+  /*Pagina 3*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .padre3{
+    background-color: rgb(89,89,91);
+    position: relative;
+    width: 101.7%;
+    height: 100px;
+  }
+  .barra4{
+    background-color: white;
+    position: absolute;
+    width: 15vh;
+    height: 40px;
+    margin: 30px;
+    border: 10px;
+  }
+  .barra5{
+    background-color: gray;
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    margin: 30px;
+    left: 1030px;
+  }
+  .barra6{
+    background-color: gray;
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    margin: 30px;
+    left: 1110px;
+  }
+  .barra7{
+    background-color: white;
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    margin: 30px;
+    left: 1190px;
+  }
+  .barra8{
+    background-color: orange;
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    margin: 30px;
+    left: 1450px;
+  }
+  .cuadroytexto{
+    background-color: rgb(194,32,64);
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+  }
+  .parrafo3{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+  } 
+  .titulo32{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+  } 
+  .cuadrogris1{
+    background-color: rgb(65,65,67);
+    position: relative;
+    width: 75em;
+    height: 50vh;
+    margin: 50px;
+  }
+   .parrafoycaja{
+    display: flex;
+    justify-content: center;
+   }
+   .rectangulonaranja3{
+    position: relative;
+    right: 60px;
+    background-color: rgb(65,65,67);
+    display: flex;
+    width: 100%;
+    height: 5em;
+  }
+   .rectangulonaranja31{
+    position: relative;
+    right: 60px;
+    background-color: rgb(87,89,91);
+    display: flex;
+    width: 100%;
+    height: 5em;
+  }
+   .rectangulonaranja32{
+    position: relative;
+    right: 60px;
+    background-color: rgb(112,111,116);
+    display: flex;
+    width: 100%;
+    height: 5em;
+  }
+  /*Pagina 4*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .texto{
+    font-size: 20px;
+  }
+  .tituloo{
+    font-size: 20px;
+  }
+  .cuadradrogranderojo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(196,31,62);
+    width: 100%;
+    height: 65vh;
+    margin: 15px;
+    padding: 10px;
+  }
+  .triangle1{
+    width: 0; 
+    height: 0; 
+    border-left: 88px solid white;
+    border-top: 65px solid transparent;
+    border-bottom: 65px solid transparent;
+  }
+  /*pagina 5*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  header{
+      background-color: #404042;
+      width: 100%;
+      / define altura de pantalla*/
+      height: 50vh;
+  }
+  .distribucion{
+      display: flex;
+  }
+  .cajaroja{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #c21d3d;
+      width: 100%;
+      height: 45vh;
+      margin: 15px;
+      padding: 10px;
+  }
+  .triangle{
+       width: 0; 
+       height: 0; 
+       border-left: 78px solid white;
+       border-top: 45px solid transparent;
+       border-bottom: 45px solid transparent;
+   }
+   h1{
+       color: white;
+       text-align: center;
+  
+   }
+   p{
+       color: white;
+   }
+   .cajaparrafo{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+       padding: 30px;
+   }
+   .rectangorange{
+       background-color: orange;
+       display: flex;
+       width: 100%;
+       height: 10em;
+   }
+   .cajader{
+       background-color: #404042;
+   }
+   h2{
+       color: white;
+   }
+   /*pagina 6*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .distribucion6{
+    background-color:rgb(89,89,91);
+    display:flex;
+    align-items: center;
+    height: 5em;
+  }
+  .cuadrogrisone{
+    background-color:gray;
+    width:100%;
+    height:60%;
+    padding: 10px;
+  }
+  .cuadroblancoone{
+    background-color:white;
+    width: 100%;
+    height: 60%;
+    padding: 10px;
+  }
+  .cuadrorangeone{
+    background-color: orange;
+    width:100%;
+    height:60%;
+    padding: 10px;
+  }
+  .cajagris66{
+    background-color: #2b2b2d;
+    display: flex;
+    height: 70vh;
+  }
+  .cajagris6{
+    background-color: #2b2b2d;
+    display: flex;
+    height: 90vh;
+  }
+  .colorpone{
+    color: white;
+  }
+  .orangeone{
+    background-color: orange;
+    color:white;
+  }
+  .k{
+    position: relative;
+    right: 60px;
+    background-color: orange;
+    display: flex;
+    width: 100%;
+    height: 10em;
+  }
+  .l{
+    position: relative;
+    right: 60px;
+  }
+  .p{
+    background-color: rgb(44,44,46);
+  }
+  .colorwhite{
+    color: white;
+  }
+  /*Pagina 7*/
+   {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .cuadrograngriss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    width: 100%;
+    height: 65vh;
+    margin: 15px;
+    padding: 10px;
+  }
+  .cuadroblancoo{
+    background-color:white;
+    width: 50vh;
+    height: 8%;
+  }
+  .cuadroamarilloo{
+    background-color: rgb(230,163,50);
+    position: relative;
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+  }
+  .parrafo8{
+   display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 15px;
+  }
+  .cuadrogrisop{
+    margin: 25px;
+    margin-left: 100px;
+    background-color: gray;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .ipsum{
+    margin-top: 15px;
+    font-size: 80%;
+  }
+  .amet2{
+    margin-left: 30px;
+  }
+  /*Pagina 8*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .cuadrograngrisss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+    width: 100%;
+    height: 65vh;
+    margin: 15px;
+    padding: 10px;
+  }
+  .pequeñogris{
+    margin-top: 400px;
+    margin-left: 30px;
+    background-color: gray;
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  .naranjaa{
+    color: rgb(252, 78, 34);
+  }
+  .cuadrogrisopp{
+    margin: 20px;
+    background-color: rgb(65,70,67);
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .cuadrogrisopp1{ 
+    margin: 20px;
+    background-color: rgb(87,89,91);
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .cuadrogrisopp2{
+    margin: 20px;
+    background-color: rgb(108,110,114);
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .cuadrogrisopp3{
+    margin: 20px;
+    background-color: gray;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .cuadrogrisopp4{ 
+    margin: 20px;
+    background-color: gray;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .cuadrogrisopp5{
+    margin: 20px;
+    background-color: gray;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .parrafoo{
+    margin-top: 200px;
+  }
+  .alinear{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .alinear2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /*Pagina 9*/
+  {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    background-color: rgb(40,37,37);
+  }
+  .naranjaa1{
+    color: rgb(255, 145, 0);
+    text-align: left;
+  }
+  .pqñgris{
+    margin: 20px;
+    background-color: rgb(65,65,67);
+    position: relative;
+    width: 150px;
+    height: 150px;
+  }
+  .grislargo{
+    margin: 20px;
+    background-color: rgb(44,44,46);
+    position: relative;
+    width: 80%;
+    height: 150px;
+  }
+  .titulitar{
+    color: rgb(255, 145, 0);
+  }
